@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423269790071",
+    "project_id": "formal-office-298916",
+    "storage_bucket": "formal-office-298916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423269790071:android:593b6f615d345646bff172",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423269790071-juelksgndeq4qvipks4k8o22cphnvaa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHfroD9cOKUy7uHHg2O_7pbIjO_Kz4HxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423269790071-juelksgndeq4qvipks4k8o22cphnvaa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
